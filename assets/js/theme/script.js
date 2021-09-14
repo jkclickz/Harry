@@ -1,13 +1,4 @@
-/*
-  - File name       : script.js
-  - Description     : This file includes all theme js functions.
-  - Author          : Devzilla.
-  - Author          : Osama Bakri.
-  - Version         : 1.0.0
-  - Created         : 1/7/2021.
-  - Copyright       : @ 2021 Devzilla All Rights Reserved.
-  - License         : You must have a valid license purchased only from templatemonster.com(the above link) in order to legally use the theme for your project.
-**/
+
 (function($) {
 
     'use strict';
